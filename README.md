@@ -1,2 +1,2 @@
 # aws-tools
-AWS Scripts and Tools
+This is a simple collection of some basic useful AWS scripts.
